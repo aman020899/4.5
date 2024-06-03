@@ -1,0 +1,10 @@
+SEO:--SEO stands for Search Engine Optimization. It refers to the practice of optimizing a website 
+to improve its visibility and ranking in search engine results pages (SERPs). The goal of SEO is to
+ increase organic (non-paid) traffic to a website by making it more relevant and authoritative in the
+  eyes of search engines like Google, Bing, and Yahoo.
+
+  SEO is important:----
+  1--Increased Visibility and Traffic.
+  2--Credibility and Trust.
+  3--Better User Experience.
+  4--Cost-Effectiveness.
